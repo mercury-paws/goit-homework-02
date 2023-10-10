@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #ecf1f4;
+  background-color: #ffffff;
   color: #434455;
   font-size: 16px;
   font-style: normal;
@@ -24,21 +24,21 @@ li {
 }
 
 .logo {
-  color: #2e2f42;
+  color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-.web {
-  color: #4d5ae5;
+.studio-class {
+  color: #2e2f42;
 }
 
 .menu-navigation {
-  color: #2e2f42;
+  color: #434455;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -47,7 +47,11 @@ li {
 }
 
 .menu-navigation:hover {
-  color: initial;
+  color: #404bbf;
+}
+
+.address-styles {
+  font-style: normal;
 }
 
 .mail:hover,
@@ -59,13 +63,14 @@ li {
   background-color: #2e2f42;
 }
 
-.header-1 {
+.main-header {
   color: #ffffff;
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 1.12px;
+  text-align: center;
 }
 
 button {
@@ -82,20 +87,26 @@ button:hover {
   background-color: #404bbf;
 }
 
+button:focus {
+  background-color: #404bbf;
+}
+
 .section-2-our-team {
   background-color: #f4f4fd;
 }
 
-.header-h2 {
+.second-header {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
 }
 
-.header-h3 {
+.third-header {
   color: #2e2f42;
   font-size: 20px;
   font-style: normal;
