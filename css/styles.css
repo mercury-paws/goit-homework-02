@@ -46,10 +46,41 @@ li {
   letter-spacing: 0.32px;
 }
 
+.menu-navigation-portfolio {
+  color: #2e2f42;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+.menu-navigation-contacts {
+  color: #2e2f42;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
 .menu-navigation:hover {
   color: #404bbf;
 }
 .menu-navigation:focus {
+  color: #404bbf;
+}
+.menu-navigation-portfolio:hover {
+  color: #404bbf;
+}
+
+.menu-navigation-portfolio:focus {
+  color: #404bbf;
+}
+.menu-navigation-contacts:hover {
+  color: #404bbf;
+}
+.menu-navigation-contacts:focus {
   color: #404bbf;
 }
 
