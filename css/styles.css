@@ -15,8 +15,14 @@ h1 h2 h3 {
 
 a {
   text-decoration: none;
+  text-decoration-line: none;
+  color: #434455
   font-style: normal;
-  color: initial;
+}
+
+a:hover,
+a:focus{
+  color: #404bbf;
 }
 
 li {
