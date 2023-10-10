@@ -38,7 +38,7 @@ li {
 }
 
 .menu-navigation {
-  color: #434455;
+  color: #2e2f42;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -46,7 +46,9 @@ li {
   letter-spacing: 0.32px;
 }
 
-.menu-navigation:hover,
+.menu-navigation:hover {
+  color: #404bbf;
+}
 .menu-navigation:focus {
   color: #404bbf;
 }
@@ -74,7 +76,7 @@ li {
   text-align: center;
 }
 
-button {
+button-style {
   background-color: #4d5ae5;
   cursor: pointer;
   color: #ffffff;
