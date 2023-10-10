@@ -62,8 +62,7 @@ li {
   color: #434455;
 }
 
-.mail:hover,
-.tel:hover {
+contact-us:hover {
   color: #404bbf;
 }
 
