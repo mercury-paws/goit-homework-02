@@ -38,7 +38,7 @@ li {
 }
 
 .menu-navigation {
-  color: #2e2f42;
+  color: #434455;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -50,6 +50,10 @@ li {
   color: #404bbf;
 }
 .menu-navigation:focus {
+  color: #404bbf;
+}
+
+.menu-navigation:active {
   color: #404bbf;
 }
 
