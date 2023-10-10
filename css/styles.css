@@ -129,3 +129,7 @@ button:focus {
 .studio-footer {
   color: #f4f4fd;
 }
+
+.text-of-the-paragraphs {
+  font-size: 16px;
+}
