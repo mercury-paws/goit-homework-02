@@ -98,7 +98,7 @@ button:focus {
   background-color: #404bbf;
 }
 
-.section-2-our-team {
+.section-two-our-team {
   background-color: #f4f4fd;
 }
 
@@ -122,7 +122,7 @@ button:focus {
   letter-spacing: 0.4px;
 }
 
-.section-3-our-portfolio {
+.section-three-our-portfolio {
   background-color: #f4f4fd;
 }
 
@@ -141,5 +141,8 @@ button:focus {
 }
 
 .portfolo-list {
+  background-color: #ffffff;
+}
+.portfolio-list-punkt {
   background-color: #ffffff;
 }
