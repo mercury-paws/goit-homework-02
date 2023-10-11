@@ -62,6 +62,9 @@ li {
   color: #404bbf;
 }
 
+.contact-us-list{
+  color: #434455;
+}
 .address-styles {
   font-style: normal;
   color: #434455;
@@ -69,10 +72,6 @@ li {
 
 .contact-us:hover {
   color: #404bbf;
-}
-
-.contact-us-list{
-  color: #434455;
 }
 
 .hero {
