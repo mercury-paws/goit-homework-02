@@ -1,12 +1,10 @@
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #ffffff;
-  color: #434455;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
+  color: #434455;
 }
 
 h1 h2 h3 {
@@ -31,7 +29,6 @@ li {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
@@ -44,7 +41,6 @@ li {
 .menu-navigation {
   color: #2e2f42;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.32px;
@@ -65,7 +61,6 @@ li {
   color: #434455;
 }
 .address-styles {
-  font-style: normal;
   color: #434455;
 }
 
@@ -83,7 +78,6 @@ li {
 .main-header {
   color: #ffffff;
   font-size: 56px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 1.12px;
@@ -95,7 +89,6 @@ li {
   cursor: pointer;
   color: #ffffff;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.64px;
@@ -117,7 +110,6 @@ button:focus {
 }
 .second-header {
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.72px;
@@ -127,12 +119,11 @@ button:focus {
 }
 
 .third-header {
-  color: #2e2f42;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+  color: #2e2f42;
 }
 
 .section-three-our-portfolio {
@@ -153,9 +144,6 @@ button:focus {
   font-size: 16px;
 }
 
-.portfolo-list {
-  background-color: #ffffff;
-}
-.portfolio-list-punkt {
+.portfolio-list-item {
   background-color: #ffffff;
 }
