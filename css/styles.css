@@ -67,8 +67,12 @@ li {
   color: #434455;
 }
 
-contact-us:hover {
+.contact-us:hover {
   color: #404bbf;
+}
+
+.contact-us{
+  color: #434455;
 }
 
 .hero {
@@ -107,6 +111,9 @@ button:focus {
   background-color: #f4f4fd;
 }
 
+.list-of-our-team{
+  background-color: #ffffff;
+}
 .second-header {
   font-size: 36px;
   font-style: normal;
