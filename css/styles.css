@@ -15,12 +15,11 @@ h1 h2 h3 {
 
 a {
   text-decoration-line: none;
-  color: #434455
   font-style: normal;
 }
 
 a:hover,
-a:focus{
+a:focus {
   color: #404bbf;
 }
 
@@ -62,7 +61,7 @@ li {
   color: #404bbf;
 }
 
-.contact-us-list{
+.contact-us-list {
   color: #434455;
 }
 .address-styles {
@@ -110,7 +109,7 @@ button:focus {
   background-color: #f4f4fd;
 }
 
-.list-of-our-team{
+.list-of-our-team {
   background-color: #ffffff;
 }
 .second-header {
